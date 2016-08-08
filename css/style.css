@@ -379,7 +379,7 @@ a{-webkit-transition:all 300ms ease-in-out;-moz-transition:all 300ms ease-in-out
   .tt-header .main-nav > ul > li:hover > ul{visibility:visible;opacity:1;-webkit-transform:translateY(0px);-moz-transform:translateY(0px);-ms-transform:translateY(0px);transform:translateY(0px);}
   .tt-header .main-nav > ul > li > ul > li{border-bottom:1px solid #f1f1f1;text-align:left;}
   .tt-header .main-nav > ul > li > ul > li > a{display:block;position:relative;font-size:13px;line-height:17px;font-weight:400;color:#949494;letter-spacing:0.3px;padding:17px 19px 14px 19px;}
-  .tt-header .main-nav > ul > li > ul > li > a:hover{background:#7ab55c;color:#fff;}
+  .tt-header .main-nav > ul > li > ul > li > a:hover{background:#fcbf31;color:#fff;}
 
   /*3rd level*/
   .tt-header .main-nav > ul > li > ul > li{position:relative;}
