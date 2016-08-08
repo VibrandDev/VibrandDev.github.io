@@ -1,0 +1,33 @@
+- name: About us
+  path: about-us.html
+  section_id: About Us
+- name: What we do
+  path: what-we-do.html
+  section_id: projects
+  children:
+    - name: Vibrand Social
+      path: vibrand-social.html
+    - name: Vibrand Reach
+      path: vibrand-reach.html
+    - name: Vibrand Opinion
+      path: vibrand-opinion.html  
+    - name: Online Communities
+      path: online-communities.html  
+- name: Our Tools
+  path: our-tools.html
+  section_id: our Tools
+  children:
+    - name: Qualitative
+      path: qualitative.html
+    - name: Quantitative
+      path: quantitative.html
+  section_id: Online Communities
+- name: Creative Workshops
+  path: creative-workshops.html
+  section_id: creative workshops
+- name: Why us? 
+  path: why-us.html
+  section_id: why us
+- name: Contact Us
+  path: contact.html
+  section_id: Contact Us
