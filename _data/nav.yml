@@ -22,11 +22,6 @@
     - name: Quantitative
       path: quantitative.html
   section_id: Online Communities
-- name: Creative Workshops
-  path: creative-workshops.html
-  section_id: creative workshops
-- name: Why us? 
-  path: why-us.html
   section_id: why us
 - name: Contact Us
   path: contact.html
