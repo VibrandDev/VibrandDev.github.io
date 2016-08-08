@@ -3,16 +3,16 @@
   section_id: About Us
 - name: What we do
   path: what-we-do.html
-  section_id: projects
+  section_id: what we do
   children:
+    - name: Sensory
+      path: sensory.html
     - name: Vibrand Social
       path: vibrand-social.html
     - name: Vibrand Reach
       path: vibrand-reach.html
     - name: Vibrand Opinion
       path: vibrand-opinion.html  
-    - name: Online Communities
-      path: online-communities.html  
 - name: Our Tools
   path: our-tools.html
   section_id: our Tools
@@ -21,8 +21,3 @@
       path: qualitative.html
     - name: Quantitative
       path: quantitative.html
-  section_id: Online Communities
-  section_id: why us
-- name: Contact Us
-  path: contact.html
-  section_id: Contact Us
