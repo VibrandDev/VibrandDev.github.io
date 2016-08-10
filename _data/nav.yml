@@ -6,13 +6,13 @@
   section_id: what we do
   children:
     - name: Sensory
-      path: sensory.html
+      path: /what-we-do/sensory.html
     - name: Vibrand Social
-      path: vibrand-social.html
+      path: /what-we-do/vibrand-social.html
     - name: Vibrand Reach
-      path: vibrand-reach.html
+      path: /what-we-do/vibrand-reach.html
     - name: Vibrand Opinion
-      path: vibrand-opinion.html  
+      path: /what-we-do/vibrand-opinion.html  
 - name: Our Tools
   path: our-tools.html
   section_id: our Tools
