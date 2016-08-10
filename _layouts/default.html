@@ -68,7 +68,7 @@
 
                 {% if item.children %}
                             <li class="parent {{active_class}}">
-                                <a href="{{site.url}}/{{ item.path }}">{{item.name}}</a>  
+                                <a href="{{site.url}}{{ item.path }}">{{item.name}}</a>  
                                 <ul>{% for child in item.children %}
                                  <li>
                           <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
