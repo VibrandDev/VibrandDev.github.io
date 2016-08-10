@@ -6,7 +6,7 @@
   section_id: what we do
   children:
     - name: Sensory
-      path: /what-we-do/sensory.html
+      path: {{site.url}}/what-we-do/sensory.html
     - name: Vibrand Social
       path: /what-we-do/vibrand-social.html
     - name: Vibrand Reach
