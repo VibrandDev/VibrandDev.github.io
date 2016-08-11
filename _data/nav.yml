@@ -18,6 +18,6 @@
   section_id: our Tools
   children:
     - name: Qualitative
-      path: qualitative.html
+      path: our-tools/qualitative.html
     - name: Quantitative
-      path: quantitative.html
+      path: our-tools/quantitative.html
