@@ -1337,6 +1337,10 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
 .footer .container {
   padding-top: 20px;
 }
+#sensory {
+  min-height: 262px;
+  background-image: url('{{site.url}}/img/gif/sensory.png');
+}
 #sensory:hover {
-  background-image: url(img/gif/sensory.gif);
+  background-image: url('{{site.url}}/img/gif/sensory.gif');
 }
