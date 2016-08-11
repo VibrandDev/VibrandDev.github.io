@@ -1339,8 +1339,8 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
 }
 #sensory {
   min-height: 262px;
-  background-image: url('{{site.url}}/img/gif/sensory.png');
+  background-image: url('/img/gif/sensory.png');
 }
 #sensory:hover {
-  background-image: url('{{site.url}}/img/gif/sensory.gif');
+  background-image: url('/img/gif/sensory.gif');
 }
