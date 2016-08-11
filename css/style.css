@@ -1373,6 +1373,24 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
 #opinion:hover {
   background-image: url('/img/gif/opinion.gif');
 }
+#qualitative {
+  min-height: 150px;
+  background-image: url('/img/gif/qualitative.png');
+  background-repeat: no-repeat;
+  background-position: center top; 
+}
+#qualitative:hover {
+  background-image: url('/img/gif/qualitative.gif');
+}
+#quantitative {
+  min-height: 150px;
+  background-image: url('/img/gif/quantitative.png');
+  background-repeat: no-repeat;
+  background-position: center top; 
+}
+#quantitative:hover {
+  background-image: url('/img/gif/quantitative.gif');
+}
 .tt-address-icon_dark {
   color: #333;
   font-size: 18px;
