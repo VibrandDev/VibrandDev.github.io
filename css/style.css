@@ -1375,4 +1375,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
 }
 .tt-address-icon_dark {
   color: #333;
+  font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
 }
