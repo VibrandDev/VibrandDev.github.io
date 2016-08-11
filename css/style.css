@@ -1341,7 +1341,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   min-height: 150px;
   background-image: url('/img/gif/sensory.png');
   background-repeat: no-repeat;
-  background-position: center; 
+  background-position: center top; 
 }
 #sensory:hover {
   background-image: url('/img/gif/sensory.gif');
@@ -1350,7 +1350,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   min-height: 150px;
   background-image: url('/img/gif/social.png');
   background-repeat: no-repeat;
-  background-position: center; 
+  background-position: center top; 
 }
 #social:hover {
   background-image: url('/img/gif/social2.gif');
@@ -1359,7 +1359,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   min-height: 150px;
   background-image: url('/img/gif/reach.png');
   background-repeat: no-repeat;
-  background-position: center; 
+  background-position: center top; 
 }
 #reach:hover {
   background-image: url('/img/gif/reach.gif');
@@ -1368,7 +1368,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   min-height: 150px;
   background-image: url('/img/gif/opinion.png');
   background-repeat: no-repeat;
-  background-position: center; 
+  background-position: center top; 
 }
 #opinion:hover {
   background-image: url('/img/gif/opinion.gif');
