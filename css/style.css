@@ -1337,3 +1337,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
 .footer .container {
   padding-top: 20px;
 }
+#sensory:hover {
+  background-image: url(img/gif/sensory.gif);
+}
