@@ -1345,3 +1345,27 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
 #sensory:hover {
   background-image: url('/img/gif/sensory.gif');
 }
+#social {
+  min-height: 150px;
+  background-image: url('/img/gif/social.png');
+  background-repeat: no-repeat;
+}
+#social:hover {
+  background-image: url('/img/gif/social2.gif');
+}
+#reach {
+  min-height: 150px;
+  background-image: url('/img/gif/reach.png');
+  background-repeat: no-repeat;
+}
+#reach:hover {
+  background-image: url('/img/gif/reach.gif');
+}
+#opinion {
+  min-height: 150px;
+  background-image: url('/img/gif/opinion.png');
+  background-repeat: no-repeat;
+}
+#opinion:hover {
+  background-image: url('/img/gif/opinion.gif');
+}
