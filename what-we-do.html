@@ -20,7 +20,7 @@ title: What we do | Vibrand Research
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="tt-case">
                         <a class="tt-case-img custom-hover" href="#">
-                            <img id="sensory_hover" class="img-responsive" src="/img/gif/sensory.png" height="230" width="392" alt="">
+                            <img id="sensory_hover" src="{{site.url}}/img/gif/sensory.png" />
                         </a>
                         <div class="tt-case-info">
                             <a class="tt-case-title c-h5" href="#">Sensory</a>
@@ -83,11 +83,11 @@ $(document).ready(function()
     $("#sensory_hover").hover(
         function()
         {
-            $(this).attr("src", "/img/gif/sensory.gif");
+            $(this).attr("src", "{{site.url}}/img/gif/sensory.gif");
         },
         function()
         {
-            $(this).attr("src", "/img/gif/sensory.png");
+            $(this).attr("src", "{{site.url}}/img/gif/sensory.png");
         }                         
     );                  
 });
