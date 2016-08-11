@@ -1373,3 +1373,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
 #opinion:hover {
   background-image: url('/img/gif/opinion.gif');
 }
+.tt-address-icon_dark {
+  color: #333;
+}
