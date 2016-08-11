@@ -1338,7 +1338,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   padding-top: 20px;
 }
 #sensory {
-  min-height: 262px;
+  min-height: 150px;
   background-image: url('/img/gif/sensory.png');
 }
 #sensory:hover {
