@@ -669,7 +669,7 @@ a{-webkit-transition:all 300ms ease-in-out;-moz-transition:all 300ms ease-in-out
 .tt-case-title{display:block;margin-bottom:10px;}
 .tt-case-title:hover{color:#7ab55c;}
 @media (max-width:767px){
-  div.tt-case{max-width:390px;margin-left:auto;margin-right:auto;}
+  div.tt-case{max-width:390px;margin-left:auto;margin-right:auto; margin-top: 20px;}
 }
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
