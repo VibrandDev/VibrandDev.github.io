@@ -3,21 +3,21 @@
   section_id: About Us
 - name: What we do
   path: what-we-do.html
-  section_id: what we do
-  children:
-    - name: Sensory
-      path: what-we-do/sensory.html
-    - name: Vibrand Social
-      path: what-we-do/vibrand-social.html
-    - name: Vibrand Reach
-      path: what-we-do/vibrand-reach.html
-    - name: Vibrand Opinion
-      path: what-we-do/vibrand-opinion.html  
-- name: Our Tools
-  path: our-tools.html
-  section_id: our Tools
+  section_id: What we do
   children:
     - name: Qualitative
       path: our-tools/qualitative.html
     - name: Quantitative
       path: our-tools/quantitative.html
+- name: Our Tools
+  path: our-tools.html
+  section_id: our tools
+  children:
+    - name: Sensory
+      path: our-tools/sensory.html
+    - name: Vibrand Social
+      path: our-tools/vibrand-social.html
+    - name: Vibrand Reach
+      path: our-tools/vibrand-reach.html
+    - name: Vibrand Opinion
+      path: our-tools/vibrand-opinion.html  
