@@ -6,9 +6,9 @@
   section_id: What we do
   children:
     - name: Qualitative
-      path: our-tools/qualitative.html
+      path: what-we-do/qualitative.html
     - name: Quantitative
-      path: our-tools/quantitative.html
+      path: what-we-do/quantitative.html
 - name: Our Tools
   path: our-tools.html
   section_id: our tools
