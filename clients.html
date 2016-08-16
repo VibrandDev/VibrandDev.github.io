@@ -174,9 +174,18 @@ clients:
     link: tester
     image: wwf
 ---
-
-    <div class="tt-header-margin visible-xs-block visible-sm-block"></div>       
-
+      
+<div class="tt-topheading background-block" style="background-image:url(img/heading/bg.jpg);">
+            <div class="container">
+                <ul class="tt-breadcrumbs">
+                    <h1 style="font-size: 30px; color: #fff; font-weight: bold;">Our Clients</h1>
+                    <li><a href="index.html">Home</a></li>
+                    <li><span><a href="clients.html">Our Clients</a></span></li>
+                </ul>
+            </div>
+        </div>
+    
+        <div class="container">
     <div id="content-wrapper">
             <div class="row">
                {% for client in page.clients %}
