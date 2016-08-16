@@ -340,7 +340,7 @@ clients:
             <div class="swiper-container" data-autoplay="5000" data-loop="0" data-speed="500" data-center="0" data-slides-per-view="responsive" data-xs-slides="2" data-sm-slides="3" data-md-slides="3" data-lg-slides="4" data-add-slides="5">
                 <div class="swiper-wrapper clearfix">
                 {% for client in page.clients %}
-      <div class="swiper-slide active">
+      <div class="swiper-slide active col-xs-6 col-sm-6">
                         <a class="tt-partner" href="{{client.link}}" target="_blank">
                             <img class="img-responsive" src="{{site.url}}/img/clients/{{client.image}}.jpg" alt="">
                         </a>
