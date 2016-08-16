@@ -834,7 +834,7 @@ a{-webkit-transition:all 300ms ease-in-out;-moz-transition:all 300ms ease-in-out
   .tt-footer{padding-top:50px;}
 }
 @media (max-width:767px){
-  .tt-footer{padding-top:30px;}
+  .tt-footer{padding-top:0px;}
 }
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
