@@ -7,7 +7,8 @@ $(document).ready(function() {
       items : 4,
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3],
-      pagination : false
+      pagination : false,
+      stopOnHover : true
  
   });
  
