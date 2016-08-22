@@ -2,8 +2,9 @@
   path: about-us.html
   section_id: About Us
   children:
-    - name: Our Clients
-      path: clients.html
+- name: Our Clients
+  path: clients.html
+  section_id: Our Clients
 - name: What we do
   path: what-we-do.html
   section_id: What we do
