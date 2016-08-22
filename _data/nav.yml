@@ -13,15 +13,15 @@
       path: what-we-do/qualitative.html
     - name: Quantitative
       path: what-we-do/quantitative.html
-- name: Our Tools
-  path: our-tools.html
-  section_id: our tools
+    - name: Sensory Research
+      path: what-we-do/sensory-research.html
+    - name: Social Research
+      path: what-we-do/social-research.html
+- name: Proprietary Tools
+  path: proprietary-tools.html
+  section_id: Proprietary Tools
   children:
-    - name: Sensory
-      path: our-tools/sensory.html
-    - name: Vibrand Social
-      path: our-tools/vibrand-social.html
     - name: Vibrand Reach
-      path: our-tools/vibrand-reach.html
+      path: proprietary-tools/vibrand-reach.html
     - name: Vibrand Opinion
-      path: our-tools/vibrand-opinion.html  
+      path: proprietary-tools/vibrand-opinion.html  
