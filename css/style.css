@@ -1342,7 +1342,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/sensory.png');
   background-repeat: no-repeat;
   background-position: center top; 
-  margin-top: 20px;
 }
 #sensory:hover {
   background-image: url('/img/gif/sensory.gif');
@@ -1352,7 +1351,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/social.png');
   background-repeat: no-repeat;
   background-position: center top; 
-  margin-top: 20px;
 }
 #social:hover {
   background-image: url('/img/gif/social2.gif');
@@ -1362,7 +1360,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/reach.png');
   background-repeat: no-repeat;
   background-position: center top;
-  margin-top: 20px;
 }
 #reach:hover {
   background-image: url('/img/gif/reach.gif');
@@ -1372,7 +1369,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/opinion.png');
   background-repeat: no-repeat;
   background-position: center top;
-  margin-top: 20px;
 }
 #opinion:hover {
   background-image: url('/img/gif/opinion.gif');
@@ -1382,7 +1378,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/qualitative.png');
   background-repeat: no-repeat;
   background-position: center top;
-  margin-top: 20px;
 }
 #qualitative:hover {
   background-image: url('/img/gif/qualitative.gif');
@@ -1392,7 +1387,6 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/quantitative.png');
   background-repeat: no-repeat;
   background-position: center top;
-  margin-top: 20px;
 }
 #quantitative:hover {
   background-image: url('/img/gif/quantitative.gif');
