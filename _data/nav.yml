@@ -8,6 +8,9 @@
 - name: Our Clients
   path: clients.html
   section_id: Our Clients
+- name: Where we work
+  path: where-we-work.html
+  section_id: Where we work
 - name: What we do
   path: what-we-do.html
   section_id: What we do
