@@ -1,3 +1,6 @@
+- name: Home
+  path: index.html
+  section_id: Home
 - name: About us
   path: about-us.html
   section_id: About Us
