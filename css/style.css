@@ -1397,3 +1397,9 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
     line-height: 22px;
     font-weight: 700;
 }
+.simple-text.size-2 {
+    font-size: 21px;
+    line-height: 30px;
+    color: #fff;
+    text-shadow: 1px 1px #333;
+  }
