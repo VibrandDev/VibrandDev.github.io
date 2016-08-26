@@ -1,3 +1,4 @@
 name: Vibrand | African Market Research
 	markdown: kramdown
-baseurl: "https://vibranddev.github.io/vibrandsite/"
+gems:
+  - jekyll-redirect-from
