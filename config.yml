@@ -1,4 +1,4 @@
 name: Vibrand | African Market Research
-	markdown: kramdown
+markdown: kramdown
 gems:
   - jekyll-redirect-from
