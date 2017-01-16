@@ -8,7 +8,8 @@ $(document).ready(function() {
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3],
       pagination : false,
-      stopOnHover : true
+      stopOnHover : true,
+      rewindNav: false
  
   });
  
