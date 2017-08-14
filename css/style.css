@@ -1408,4 +1408,5 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   .teamimage { 
       width: 120px;
     border-radius: 50%;
+    margin-bottom: 10px;
   }
