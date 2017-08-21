@@ -30,4 +30,8 @@
     - name: Vibrand Reach
       path: proprietary-tools/vibrand-reach.html
     - name: Vibrand Opinion
-      path: proprietary-tools/vibrand-opinion.html  
+      path: proprietary-tools/vibrand-opinion.html
+    - name: Vibrand Pulse
+      path: proprietary-tools/vibrand-pulse.html
+- name: Vibrand Pulse
+      path: proprietary-tools/vibrand-pulse.html       
