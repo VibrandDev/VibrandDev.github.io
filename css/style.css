@@ -1340,7 +1340,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   padding-top: 20px;
 }
 #sensory {
-  min-height: 329px;;
+  min-height: 360px;
   background-image: url('/img/gif/sensory.png');
   background-repeat: no-repeat;
   background-position: center top; 
@@ -1349,7 +1349,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/sensory.gif');
 }
 #social {
-  min-height: 329px;
+  min-height: 360px;
   background-image: url('/img/gif/social.png');
   background-repeat: no-repeat;
   background-position: center top; 
@@ -1358,7 +1358,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/social2.gif');
 }
 #reach {
-  min-height: 329px;
+  min-height: 360px;
   background-image: url('/img/gif/reach.png');
   background-repeat: no-repeat;
   background-position: center top;
@@ -1367,7 +1367,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/reach.gif');
 }
 #opinion {
-  min-height: 329px;
+  min-height: 360px;
   background-image: url('/img/gif/opinion.png');
   background-repeat: no-repeat;
   background-position: center top;
@@ -1376,7 +1376,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/opinion.gif');
 }
 #qualitative {
-  min-height: 329px;
+  min-height: 360px;
   background-image: url('/img/gif/qualitative.png');
   background-repeat: no-repeat;
   background-position: center top;
@@ -1385,7 +1385,7 @@ body.theme-orange .c-btn.type-2.color-2:before,body.theme-orange .c-btn.type-2.c
   background-image: url('/img/gif/qualitative.gif');
 }
 #quantitative {
-  min-height: 329px;
+  min-height: 360px;
   background-image: url('/img/gif/quantitative.png');
   background-repeat: no-repeat;
   background-position: center top;
