@@ -17,7 +17,7 @@
   path: what-we-do/social-research.html
   section_id: social
 - name: Digital Research
-  path: proprietary-tools.html
+  path: digital-research.html
   section_id: Digital Research
   children:
     - name: Digital Qualitative
