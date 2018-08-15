@@ -16,13 +16,13 @@
 - name: Social
   path: what-we-do/social-research.html
   section_id: social
-- name: Other Stuff
+- name: Digital Research
   path: proprietary-tools.html
-  section_id: other stuff
+  section_id: Digital Research
   children:
-    - name: Vibrand Reach
+    - name: Digital Qualitative
       path: proprietary-tools/vibrand-reach.html
-    - name: Vibrand Pulse
+    - name: Digital Research
       path: proprietary-tools/vibrand-pulse.html
 - name: Our Clients
   path: clients.html
