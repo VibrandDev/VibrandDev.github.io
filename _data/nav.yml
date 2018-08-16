@@ -20,6 +20,8 @@
   path: digital-research.html
   section_id: Digital Research
   children:
+    - name: Digital Qual and Quant
+      path: digital-research.html
     - name: Vibrand Reach
       path: proprietary-tools/vibrand-reach.html
     - name: Vibrand Pulse
