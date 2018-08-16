@@ -20,9 +20,9 @@
   path: digital-research.html
   section_id: Digital Research
   children:
-    - name: Digital Qualitative
+    - name: Vibrand Reach
       path: proprietary-tools/vibrand-reach.html
-    - name: Digital Research
+    - name: Vibrand Pulse
       path: proprietary-tools/vibrand-pulse.html
 - name: Our Clients
   path: clients.html
